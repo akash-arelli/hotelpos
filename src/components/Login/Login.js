@@ -25,8 +25,6 @@ if(Username==userdefault && Password==passworddefault){
  
 history.push('/dashboard')
 
-
-
 }else{
   alert('wrong username password')
 }
